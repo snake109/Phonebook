@@ -1,0 +1,16 @@
+c:\users\dell\documents\visual studio 2017\Projects\ContactsTH\ContactsTH\bin\Debug\ContactsTH.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\ContactsTH\ContactsTH\bin\Debug\ContactsTH.exe
+c:\users\dell\documents\visual studio 2017\Projects\ContactsTH\ContactsTH\bin\Debug\ContactsTH.pdb
+c:\users\dell\documents\visual studio 2017\Projects\ContactsTH\ContactsTH\obj\Debug\ContactsTH.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\ContactsTH\ContactsTH\obj\Debug\ContactsTH.Form1.resources
+c:\users\dell\documents\visual studio 2017\Projects\ContactsTH\ContactsTH\obj\Debug\ContactsTH.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2017\Projects\ContactsTH\ContactsTH\obj\Debug\ContactsTH.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2017\Projects\ContactsTH\ContactsTH\obj\Debug\ContactsTH.exe
+c:\users\dell\documents\visual studio 2017\Projects\ContactsTH\ContactsTH\obj\Debug\ContactsTH.pdb
+c:\users\dell\documents\visual studio 2017\Projects\ContactsTH\ContactsTH\bin\Debug\Database1.mdf
+c:\users\dell\documents\visual studio 2017\Projects\ContactsTH\ContactsTH\bin\Debug\Database1_log.ldf
+C:\Users\Dell\documents\visual studio 2017\Projects\ContactsTH\ContactsTH\bin\Debug\ContactsTH.exe.manifest
+C:\Users\Dell\documents\visual studio 2017\Projects\ContactsTH\ContactsTH\bin\Debug\ContactsTH.application
+C:\Users\Dell\documents\visual studio 2017\Projects\ContactsTH\ContactsTH\obj\Debug\ContactsTH.exe.manifest
+C:\Users\Dell\documents\visual studio 2017\Projects\ContactsTH\ContactsTH\obj\Debug\ContactsTH.application
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\ContactsTH\ContactsTH\obj\Debug\ContactsTH.csproj.CoreCompileInputs.cache
